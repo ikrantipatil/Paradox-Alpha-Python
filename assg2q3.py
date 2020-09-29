@@ -1,0 +1,2 @@
+my_mail='My name is Kranti Patil and I am a software engineer. I am reaching out to you to communicate my interest in the AI and machine learning. I am confident that my qualifications and experiences are a great match for this position. Specifically, I have completed the certified coarse. Attached to this email for your review are my resume and marksheets. My name and contact information are below for your convenience. Thank you in advance for your consideration. I look forward to hearing from you. Sincerely'
+print(my_mail.count('am'))

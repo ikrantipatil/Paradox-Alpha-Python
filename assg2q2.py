@@ -1,0 +1,2 @@
+my_str="artificial intelligence (AI) is revolutionizing entire industries, changing the way companies across sectors leverage data to make decisions. you will apply popular machine learning and deep learning libraries. such as SciPy, ScikitLearn and Keras to industry problems involving computer vision, image analytics, recommendation systems and other types of classifiers."
+print(my_str.capitalize())
